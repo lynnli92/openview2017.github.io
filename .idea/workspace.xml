@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a4261bc-9390-47a4-a403-6da70d45842f" name="Default" comment="" />
+    <list default="true" id="5a4261bc-9390-47a4-a403-6da70d45842f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="openview2017.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -28,8 +30,8 @@
       <file leaf-file-name="fb-tag-sol.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/post/fb-tag-sol.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.682773" vertical-offset="51514" max-vertical-offset="93585">
-              <caret line="3127" column="0" selection-start-line="3127" selection-start-column="0" selection-end-line="3127" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5823666" vertical-offset="57379" max-vertical-offset="93585">
+              <caret line="3842" column="0" selection-start-line="3842" selection-start-column="0" selection-end-line="3842" selection-end-column="0" />
               <folding>
                 <element signature="e#3020#3030#0" expanded="true" />
                 <element signature="e#77362#77372#0" expanded="true" />
@@ -54,8 +56,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="height" value="777" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -148,7 +151,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="FullScreen" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -254,16 +257,16 @@
       <created>1640933312316</created>
       <option name="number" value="Default" />
       <updated>1640933312316</updated>
-      <workItem from="1640933312953" duration="1616000" />
+      <workItem from="1640933312953" duration="1816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1616000" />
+    <option name="totallyTimeSpent" value="1816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1280" height="777" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -275,7 +278,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30958903" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329927" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -316,8 +319,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/content/post/fb-tag-sol.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.682773" vertical-offset="51514" max-vertical-offset="93585">
-          <caret line="3127" column="0" selection-start-line="3127" selection-start-column="0" selection-end-line="3127" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5823666" vertical-offset="57379" max-vertical-offset="93585">
+          <caret line="3842" column="0" selection-start-line="3842" selection-start-column="0" selection-end-line="3842" selection-end-column="0" />
           <folding>
             <element signature="e#3020#3030#0" expanded="true" />
             <element signature="e#77362#77372#0" expanded="true" />
